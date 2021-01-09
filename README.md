@@ -2,7 +2,10 @@
 
 (he/him)
 
-recent graduate from UBC with grad school dreams and desire to improve healthcare solution
+recent graduate from UBC with a degree in Biophysics
+
+currently learning baisc software skills and machine learning
+
 
 
 <!--
