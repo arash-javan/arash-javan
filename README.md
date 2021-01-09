@@ -2,7 +2,12 @@
 
 (he/him)
 
+<<<<<<< HEAD
 Recent graduate from UBC with a degree in Biophysics
+=======
+
+recent graduate from UBC with a degree in Biophysics
+>>>>>>> 52ca975f88eed93c12f2992911d1acd2f1aa5021
 
 Currently learning baisc software skills and machine learning!
 
