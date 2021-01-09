@@ -2,7 +2,9 @@
 
 (he/him)
 
-recent graduate from UBC with grad school dreams 
+recent graduate from UBC with grad school dreams and desire to improve healthcare solution
+
+
 <!--
 **arash-javan/arash-javan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
