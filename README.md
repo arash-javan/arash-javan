@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Arash
 
+(he/him)
+
+recent graduate from UBC with grad school dreams 
 <!--
 **arash-javan/arash-javan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
